@@ -1,0 +1,12 @@
+# Build folders
+build/
+**/.build/
+
+# Executables
+*.x
+
+# Waveform and trace files
+*.vcd
+
+
+
