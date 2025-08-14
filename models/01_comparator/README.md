@@ -6,4 +6,4 @@ A simple three-way comparator that outputs:
 - `-1` if `a < b`
 
 ## Block Diagram
-![Comparator Block Diagram](../../figures/comparator.png)
+![Comparator Block Diagram](../../docs/comparator.png)
